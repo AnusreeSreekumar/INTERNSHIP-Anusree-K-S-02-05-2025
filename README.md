@@ -1,25 +1,25 @@
 # INTERNSHIP-Anusree-K-S-02-05-2025
 Task shared by Rimit Payments Pvt. Ltd.
 
-Backend Project of Student Record:
+**Backend Project of Student Record:**
 
-##Tech Stack
+**Tech Stack**
 
-#Server: Node, Express
+**Server**: Node, Express
 
-#Database: MongoDB
+**Database**: MongoDB
 
-#Project Structure
+**Project Structure**
 
-Server: Backend of the applciation, contains API routes, middleware, routes and Database for storage.
+**Server**: Backend of the applciation, contains API routes, middleware, routes and Database for storage.
 
-#Ports:
+**Ports:**
 
-Server: Access the server @ http://localhost:3000/
+**Server**: Access the server @ http://localhost:3000/
 
-#Configuation
+**Configuation**
 PORT number and MongoDB local host details are captured in .env file
 
-#Postman collection link
+**Postman collection link**
 
 https://documenter.getpostman.com/view/29808571/2sB2j4gBmJ
